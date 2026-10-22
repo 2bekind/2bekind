@@ -25,23 +25,6 @@ Switch saved accounts in the Codex desktop app. Check limits and reset times, ad
 
 [View project](https://github.com/2bekind/codex-switch) · [Download for Windows](https://github.com/2bekind/codex-switch/releases/latest)
 
-## More projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/2bekind/RustCare">RustCare</a></h3>
-      <p>Public Windows releases.</p>
-      <a href="https://github.com/2bekind/RustCare/releases/latest">Get the latest release</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/2bekind/turtle">Turtle Club</a></h3>
-      <p>Vanilla+ resource packs for the Turtle Club server.</p>
-      <a href="https://github.com/2bekind/turtle/releases/latest">Browse resource packs</a>
-    </td>
-  </tr>
-</table>
-
 ---
 
 <div align="center">
